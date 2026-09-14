@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 footer {
   background: #222;
   color: #ccc;
   text-align: center;
   padding: 15px;
+ }
+header {
+  background: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
 }
